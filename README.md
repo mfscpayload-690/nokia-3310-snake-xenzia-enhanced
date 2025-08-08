@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # nokia-3310-snake-xenzia-enhanced
 🐍📱 Authentic Nokia 3310 Snake Xenzia recreation with enhanced visuals, nostalgic boot sequence, and immersive terminal experience. Features realistic phone frame, animated snake, level progression, and true-to-original gameplay mechanics.
-=======
 # 🐍📱 Nokia 3310 Snake Xenzia - Enhanced Edition
 
 <div align="center">
@@ -267,4 +265,3 @@ cd nokia-3310-snake-xenzia-enhanced && python3 snake_nokia_enhanced.py
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mfscpayload-690.nokia-3310-snake-xenzia-enhanced)
 
 </div>
->>>>>>> 5020782 (feat: implement enhanced Nokia 3310 Snake Xenzia with authentic boot sequence and advanced UI)
