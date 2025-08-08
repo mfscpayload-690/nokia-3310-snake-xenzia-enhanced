@@ -11,9 +11,6 @@
 
 *Relive the golden age of mobile gaming with pixel-perfect authenticity and modern enhancements*
 
-[🚀 Quick Start](#-quick-start) • [🎮 Features](#-features) • [📸 Screenshots](#-preview) • [🛠️ Installation](#️-installation) • [🎯 How to Play](#-how-to-play)
-
-</div>
 
 ---
 
