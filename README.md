@@ -11,6 +11,7 @@
 
 *Relive the golden age of mobile gaming with pixel-perfect authenticity and modern enhancements*
 
+</div>
 
 ---
 
